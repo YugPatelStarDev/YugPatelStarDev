@@ -1,108 +1,240 @@
-<h1 align="center">⚡ WELCOME TO YUG'S GITHUB ⚡</h1> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1,2,4,5,40&height=250&section=header&text=YUG%20PATEL&fontSize=65&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%7C%20MERN%20%7C%20Backend%20Developer&descAlignY=62&font=Fira%20Code&descFont=Roboto&textColor=00F7FF&descColor=FFFFFF&borderRadius=25" width="100%" alt="Yug Patel Neon Header"> <br> <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=BCA+Student+%40+VidhyaDeep+University+%F0%9F%8E%93;Full-Stack+%7C+MERN+Stack+Developer+%F0%9F%92%BB;Backend+Engineering+%7C+DSA+%7C+Python+%F0%9F%90%8D;Building+Systems.+Solving+Problems.+Shipping+Code.+%F0%9F%9A%80" alt="Typing Animation">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08000f,25:4b0082,50:8a2be2,75:4b0082,100:08000f&height=230&section=header&text=YUG%20PATEL&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9B%8F%EF%B8%8F%20MINING%20CODE%20%E2%80%A2%20CRAFTING%20SYSTEMS%20%E2%80%A2%20SHIPPING%20PROJECTS&descAlignY=62&descSize=18" width="100%" alt="Yug Patel Header"> <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=800&color=BB66FF&center=true&vCenter=true&width=800&height=80&lines=%E2%9B%8F%EF%B8%8F+MINING+CODE...;%F0%9F%92%8E+CRAFTING+PROJECTS...;%F0%9F%90%9B+FIGHTING+BUGS...;%E2%9A%94%EF%B8%8F+BUILDING+BACKEND+SYSTEMS...;%F0%9F%9A%80+SHIPPING+TO+PRODUCTION..." alt="Typing Animation">
 
 <br><br>
 
-<a href="https://github.com/YugPatelStarDev"> <img src="https://img.shields.io/badge/GitHub-YugPatelStarDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://x.com/YugPatelStarDev"> <img src="https://img.shields.io/badge/X-%40YugPatelStarDev-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"> </a> <a href="mailto:YugPatelStarDev@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a>
+<img src="https://img.shields.io/badge/STATUS-MINING%20CODE-BB66FF?style=for-the-badge&logo=github&logoColor=white" alt="Status"> <img src="https://img.shields.io/badge/CLASS-FULL%20STACK-8A2BE2?style=for-the-badge" alt="Class"> <img src="https://img.shields.io/badge/MODE-HARDCORE-6A00FF?style=for-the-badge" alt="Mode"> <img src="https://img.shields.io/badge/BIOME-CODING%20JUNGLE-4B0082?style=for-the-badge" alt="Biome"> </div>
+🟪 YUG PATEL.EXE
+<div align="center">
+╔══════════════════════════════════════════════════════════════╗
+║                    ⛏️ PLAYER PROFILE ⛏️                     ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  👤 NAME        : YUG PATEL                                  ║
+║  🎮 CLASS       : FULL-STACK DEVELOPER                       ║
+║  🌎 WORLD       : GITHUB                                     ║
+║  ⚔️  MODE       : HARDCORE                                   ║
+║  🎓 EDUCATION   : BCA — VIDHYADEEP UNIVERSITY                ║
+║                                                              ║
+║  💻 SPECIALITY  : MERN / BACKEND / REST APIs                 ║
+║  🧠 WEAPON      : DSA + C++ + PYTHON                         ║
+║  🚀 MISSION     : BUILD • DEBUG • SHIP                       ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
 
-<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YugPatelStarDev&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square" alt="Profile Views"> <img src="https://img.shields.io/github/followers/YugPatelStarDev?label=FOLLOWERS&style=flat-square&color=FF1493&logo=github" alt="Followers"> <img src="https://img.shields.io/github/stars/YugPatelStarDev?label=STARS&style=flat-square&color=FF69B4&logo=github" alt="Stars"> </div>
-<h2 align="center">👨‍💻 WHO AM I?</h2> <table> <tr> <td width="55%" valign="top">
-⚡ About Me
-
-I'm Yug Patel, a BCA student and full-stack developer passionate about building modern web applications, backend systems, and developer-focused solutions.
-
-I enjoy turning ideas into working software and improving my problem-solving skills through DSA, backend engineering, and real-world projects.
-
-🎓 BCA Student — VidhyaDeep University
-💻 Full-Stack & MERN Developer
-⚙️ Backend & REST API Enthusiast
-🧠 DSA with C++ & Python
-🚀 Building, learning, and shipping
-🌌 Interested in scalable systems
-</td> <td width="45%" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YugPatelStarDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" width="100%" alt="GitHub Statistics"> </td> </tr> </table>
-<h2 align="center">⚡ DEVELOPER STATUS</h2> <div align="center"> <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-YES-00FF7F?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"> <a href="mailto:YugPatelStarDev@gmail.com"> <img src="https://img.shields.io/badge/HIRE%20ME-CONTACT-FF4500?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire Me"> </a> </div>
-<h2 align="center">🛠️ TECHNOLOGY ARSENAL</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,nodejs,express,mongodb,mysql,redis,supabase,firebase,prisma,graphql,redux,python,java,c,cpp,php,laravel,git,github,docker,bash,linux,aws,azure,vercel,netlify,npm,yarn,postman,vscode,figma&perline=10&theme=dark" alt="Technology Stack"> </div>
-<h2 align="center">🌌 TECH STACK I ORBIT AROUND</h2> <div align="center">
-Area	Technologies
-💻 Languages	JavaScript, TypeScript, Python, C, C++, Java, PHP
-🎨 Frontend	React, Next.js, Vite, Tailwind CSS, Bootstrap
-⚙️ Backend	Node.js, Express, REST APIs, GraphQL
-🗄️ Databases	MongoDB, MySQL, Redis, Supabase
-🔧 Tools	Git, GitHub, Docker, Linux, Bash, Postman
-☁️ Cloud	AWS, Azure, Vercel, Netlify
-</div> <br> <div align="center">
-
-"Systems over shortcuts."
+Every bug is just another block standing between me and production. ⛏️
 
 </div>
-<h2 align="center">📊 GITHUB ANALYTICS</h2> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YugPatelStarDev&show_icons=true&hide_border=true&title_color=00F7FF&icon_color=FF00FF&bg_color=0D1117&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" width="90%" alt="Yug Patel GitHub Statistics">
+🧱 CRAFTING TABLE
+<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,nodejs,express,mongodb,mysql,redis,python,cpp,java,php,git,github,docker,linux,aws,vercel,postman,vscode&perline=9&theme=dark" alt="Technology Stack"> </div> <br> <div align="center">
+🧱 MATERIAL	⚒️ ROLE
+🟨 JavaScript	Full-Stack Development
+🔷 TypeScript	Modern Web Applications
+🐍 Python	DSA & Backend
+⚔️ C++	DSA & Problem Solving
+⚛️ React	Frontend
+🟢 Node.js	Backend
+🚂 Express	REST APIs
+🍃 MongoDB	NoSQL Database
+🐬 MySQL	SQL Database
+🔴 Redis	Caching
+🐳 Docker	Containers
+🐧 Linux	Development Environment
+</div>
+🎒 INVENTORY
+<div align="center">
+╔══════════════════════════════════════════════════════════╗
+║                       INVENTORY                          ║
+╠══════════════════════════════════════════════════════════╣
+║                                                          ║
+║  ⛏️  [01]  DIAMOND PICKAXE     → Backend Engineering    ║
+║                                                          ║
+║  ⚔️  [02]  CODING SWORD        → Full-Stack Development ║
+║                                                          ║
+║  🧠  [03]  ENCHANTED BRAIN     → DSA & Algorithms       ║
+║                                                          ║
+║  🔴  [04]  REDSTONE             → System Logic          ║
+║                                                          ║
+║  💎  [05]  DIAMONDS              → Project Ideas        ║
+║                                                          ║
+║  🧪  [06]  POTION OF DEBUGGING  → Bug Fixes             ║
+║                                                          ║
+║  ☕  [07]  COFFEE                → +999 ENERGY          ║
+║                                                          ║
+╚══════════════════════════════════════════════════════════╝
+
+</div>
+🌎 WELCOME TO MY WORLD
+<div align="center">
+                         ☁️        ☁️
+
+             🌲🌲🌲                 🌲🌲🌲
+          🌲🌲🌲🌲🌲             🌲🌲🌲🌲🌲
+
+                       🏰
+                ┌──────────────┐
+                │    YUG HQ    │
+                │   🟪 CODING  │
+                └───────┬──────┘
+                        │
+                 🌱🌱🌱🌱🌱🌱
+                        │
+════════════════════════╪════════════════════════
+                        │
+                     ⛏️ MINES
+                  💎 💎 💎 💎
+                🪨🪨🪨🪨🪨🪨🪨
+
+════════════════════════════════════════════════
+                        🌊
+                       OCEAN
+
+════════════════════════════════════════════════
+                        🔥
+                    N E T H E R
+                        🔥
+                        │
+                     🟣 PORTAL
+                        │
+                     🌌 END
+                        │
+                       🐉
+                  FINAL BOSS
+
+</div>
+⚔️ CURRENT QUEST
+<div align="center">
+🎯 QUEST	STATUS
+⚡ Build Full-Stack Applications	🟢 ACTIVE
+🧠 Master DSA	🟢 ACTIVE
+⚙️ Backend Engineering	🟢 ACTIVE
+🗄️ Database & API Design	🟢 ACTIVE
+🚀 Ship Real Projects	🟢 ACTIVE
+☁️ Cloud & DevOps	🟡 LEVELING UP
+</div>
+🐛 BOSS BATTLES
+<div align="center">
+┌──────────────────────────────────────────────┐
+│              🐛 THE BUG BOSS                │
+├──────────────────────────────────────────────┤
+│                                              │
+│  HP: ████████████████████████████████ 100%  │
+│                                              │
+│  YUG'S WEAPONS:                              │
+│                                              │
+│  ⛏️  DEBUG                                   │
+│  ⚔️  REFACTOR                                │
+│  🔍  LOG                                     │
+│  🧠  THINK                                   │
+│  🔥  GOOGLE                                  │
+│  ☕  COFFEE                                  │
+│                                              │
+└──────────────────────────────────────────────┘
+
+                     ↓
+
+               💥 CRITICAL HIT 💥
+
+                     ↓
+
+              🐛 BUG DEFEATED
+
+</div>
+🏆 ACHIEVEMENTS
+<div align="center"> <img src="https://img.shields.io/badge/🪵%20GETTING%20WOOD-UNLOCKED-8B4513?style=for-the-badge" alt="Achievement"> <img src="https://img.shields.io/badge/⛏️%20STONE%20AGE-UNLOCKED-AAAAAA?style=for-the-badge" alt="Achievement">
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugPatelStarDev&layout=compact&hide_border=true&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8" width="60%" alt="Top Languages"> </div>
-<h2 align="center">🎯 CURRENT MISSION</h2> <table align="center"> <tr> <td align="center" width="25%">
+<img src="https://img.shields.io/badge/💎%20DIAMONDS!-UNLOCKED-BB66FF?style=for-the-badge" alt="Achievement"> <img src="https://img.shields.io/badge/🔥%20WE%20NEED%20TO%20GO%20DEEPER-ACTIVE-FF6600?style=for-the-badge" alt="Achievement">
 
-⚡
+<br><br>
 
-FULL STACK
+<img src="https://img.shields.io/badge/⚔️%20BUILDING%20SYSTEMS-ACTIVE-8A2BE2?style=for-the-badge" alt="Achievement"> <img src="https://img.shields.io/badge/🚀%20SHIP%20TO%20PRODUCTION-ACTIVE-BB66FF?style=for-the-badge" alt="Achievement"> </div>
+💻 GITHUB COMMAND CENTER
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YugPatelStarDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BB66FF&icon_color=8A2BE2&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub Statistics"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugPatelStarDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=BB66FF&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Languages"> </div>
+📊 PLAYER METRICS
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=YugPatelStarDev&label=PROFILE%20VIEWS&color=8A2BE2&style=for-the-badge" alt="Profile Views"> <img src="https://img.shields.io/github/followers/YugPatelStarDev?label=FOLLOWERS&color=6A00FF&style=for-the-badge&logo=github" alt="Followers"> <img src="https://img.shields.io/github/stars/YugPatelStarDev?label=STARS&color=BB66FF&style=for-the-badge&logo=github" alt="Stars"> </div>
+🧪 POTION EFFECTS
+<div align="center">
+🟪  FULL-STACK POTION
+    +999% Web Development
 
-Building modern web applications
+🟦  DSA POTION
+    +500% Problem Solving
 
-</td> <td align="center" width="25%">
+🟩  BACKEND POTION
+    +750% API Engineering
 
-🧠
+🟨  COFFEE POTION
+    +9999% Debugging Energy
 
-DSA
+🟥  PRODUCTION POTION
+    +∞ Shipping Power
 
-Sharpening problem-solving skills
+</div>
+💀 DEATH LOG
+[00:01] 💀 Yug encountered Bug #001
+[00:17] 💀 Yug deployed broken code
+[00:23] 💀 Yug discovered a missing environment variable
+[01:04] 💀 Yug fought dependency conflict
+[01:37] 💀 Yug deleted the wrong terminal command
+[02:15] ⚔️ Yug entered DEBUG MODE
+[02:42] 💎 BUG DEFEATED
+[03:00] 🚀 Production deployed
 
-</td> <td align="center" width="25%">
-
-⚙️
-
-BACKEND
-
-APIs, databases & systems
-
-</td> <td align="center" width="25%">
-
-🚀
-
-SHIPPING
-
-Turning ideas into products
-
-</td> </tr> </table>
-<h2 align="center">🧠 DEVELOPER PHILOSOPHY</h2> <div align="center">
-LEARN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-IMPROVE
-  ↓
-SHIP 🚀
-
+🟣 DEVELOPER PHILOSOPHY
+<div align="center">
+             ┌─────────┐
+             │  LEARN  │
+             └────┬────┘
+                  ↓
+             ┌─────────┐
+             │  BUILD  │
+             └────┬────┘
+                  ↓
+             ┌─────────┐
+             │  BREAK  │
+             └────┬────┘
+                  ↓
+             ┌─────────┐
+             │ DEBUG   │
+             └────┬────┘
+                  ↓
+             ┌─────────┐
+             │ IMPROVE │
+             └────┬────┘
+                  ↓
+             ┌─────────┐
+             │  SHIP 🚀│
+             └─────────┘
 
 Code is my weapon.
-
 Systems over shortcuts.
-
 Build. Learn. Repeat.
+</div>
+🌐 PORTAL ROOM
+<div align="center"> <a href="https://github.com/YugPatelStarDev"> <img src="https://img.shields.io/badge/🐙%20ENTER%20GITHUB-YUGPATELSTARDEV-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://x.com/YugPatelStarDev"> <img src="https://img.shields.io/badge/𝕏%20ENTER%20X-YUGPATELSTARDEV-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"> </a> <a href="mailto:YugPatelStarDev@gmail.com"> <img src="https://img.shields.io/badge/📨%20SEND%20MESSAGE-CONTACT%20YUG-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a>
+
+<br><br>
+
+╔══════════════════════════════════════════════╗
+║                                              ║
+║             🟣 NETHER PORTAL 🟣              ║
+║                                              ║
+║       ┌────────────────────────────┐         ║
+║       │                            │         ║
+║       │       ENTER THE CODE       │         ║
+║       │                            │         ║
+║       └────────────────────────────┘         ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 
 </div>
-<h2 align="center">📫 LET'S CONNECT</h2> <div align="center"> <a href="https://github.com/YugPatelStarDev"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://x.com/YugPatelStarDev"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"> </a> <a href="mailto:YugPatelStarDev@gmail.com"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&gradient=0:00F7FF,100:FF00FF" width="100%" alt="Neon Divider">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:08000f,25:4b0082,50:8a2be2,75:4b0082,100:08000f&height=140&section=footer&animation=twinkling" width="100%" alt="Footer">
+⛏️ YUG PATEL HAS LEFT THE WORLD
 
-<br><br>
+💎 KEEP CRAFTING. KEEP MINING. KEEP CODING.
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Yug+Patel+%7C+Full+Stack+Developer;MERN+Stack+%26+DSA+Enthusiast;Code+is+my+weapon;Systems+over+shortcuts;Keep+building.+Keep+learning.+Keep+shipping.+%F0%9F%9A%80" alt="Closing Typing Animation">
-
-<br><br>
-
-<sub>🪐 Last orbit sync: 2026 | Made with cosmic vibes</sub>
+<sub>🪐 Last orbit sync: 2026 | Built with code & cosmic vibes</sub>
 
 </div>
