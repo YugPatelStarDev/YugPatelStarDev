@@ -6,13 +6,13 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YugPatelStarDev&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square" alt="Profile Views"> <img src="https://img.shields.io/github/followers/YugPatelStarDev?label=FOLLOWERS&style=flat-square&color=FF1493&logo=github" alt="Followers"> <img src="https://img.shields.io/github/stars/YugPatelStarDev?label=STARS&style=flat-square&color=FF69B4&logo=star" alt="Stars"> </div>
+<img src="https://komarev.com/ghpvc/?username=YugPatelStarDev&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square" alt="Profile Views"> <img src="https://img.shields.io/github/followers/YugPatelStarDev?label=FOLLOWERS&style=flat-square&color=FF1493&logo=github" alt="Followers"> <img src="https://img.shields.io/github/stars/YugPatelStarDev?label=STARS&style=flat-square&color=FF69B4&logo=github" alt="Stars"> </div>
 <h2 align="center">👨‍💻 WHO AM I?</h2> <table> <tr> <td width="55%" valign="top">
 ⚡ About Me
 
 I'm Yug Patel, a BCA student and full-stack developer passionate about building modern web applications, backend systems, and developer-focused solutions.
 
-I enjoy turning ideas into working software and constantly improving my problem-solving skills through DSA, backend engineering, and real-world projects.
+I enjoy turning ideas into working software and improving my problem-solving skills through DSA, backend engineering, and real-world projects.
 
 🎓 BCA Student — VidhyaDeep University
 💻 Full-Stack & MERN Developer
@@ -20,21 +20,17 @@ I enjoy turning ideas into working software and constantly improving my problem-
 🧠 DSA with C++ & Python
 🚀 Building, learning, and shipping
 🌌 Interested in scalable systems
-</td> <td width="45%" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YugPatelStarDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github&cache_seconds=1800" width="100%" alt="GitHub Statistics"> </td> </tr> </table>
-<h2 align="center">⚡ DEVELOPER STATUS</h2> <div align="center"> <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-YES-00FF7F?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"> <a href="mailto:YugPatelStarDev@gmail.com"> <img src="https://img.shields.io/badge/HIRE%20ME-CONTACT-FF4500?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire Me"> </a>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=YugPatelStarDev&show_icons=true&hide_border=true&title_color=00F7FF&icon_color=FF00FF&bg_color=0D1117&text_color=FFFFFF&include_all_commits=true&count_private=true&cache_seconds=1800" width="90%" alt="GitHub Stats"> </div>
+</td> <td width="45%" align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YugPatelStarDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" width="100%" alt="GitHub Statistics"> </td> </tr> </table>
+<h2 align="center">⚡ DEVELOPER STATUS</h2> <div align="center"> <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-YES-00FF7F?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"> <a href="mailto:YugPatelStarDev@gmail.com"> <img src="https://img.shields.io/badge/HIRE%20ME-CONTACT-FF4500?style=for-the-badge&logo=rocket&logoColor=white" alt="Hire Me"> </a> </div>
 <h2 align="center">🛠️ TECHNOLOGY ARSENAL</h2> <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,nodejs,express,mongodb,mysql,redis,supabase,firebase,prisma,graphql,redux,python,java,c,cpp,php,laravel,git,github,docker,bash,linux,aws,azure,vercel,netlify,npm,yarn,postman,vscode,figma&perline=10&theme=dark" alt="Technology Stack"> </div>
 <h2 align="center">🌌 TECH STACK I ORBIT AROUND</h2> <div align="center">
 Area	Technologies
-Languages	JavaScript, TypeScript, Python, C, C++, Java, PHP
-Frontend	React, Next.js, Vite, Tailwind CSS, Bootstrap
-Backend	Node.js, Express, REST APIs, GraphQL
-Databases	MongoDB, MySQL, Redis, Supabase
-Tools	Git, GitHub, Docker, Linux, Bash, Postman
-Cloud	AWS, Azure, Vercel, Netlify
+💻 Languages	JavaScript, TypeScript, Python, C, C++, Java, PHP
+🎨 Frontend	React, Next.js, Vite, Tailwind CSS, Bootstrap
+⚙️ Backend	Node.js, Express, REST APIs, GraphQL
+🗄️ Databases	MongoDB, MySQL, Redis, Supabase
+🔧 Tools	Git, GitHub, Docker, Linux, Bash, Postman
+☁️ Cloud	AWS, Azure, Vercel, Netlify
 </div> <br> <div align="center">
 
 "Systems over shortcuts."
