@@ -368,13 +368,18 @@
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YugPatelStarDev&bg_color=0d1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=Yug%27s%20Code%20Intensity"
-    width="95%"
-    alt="Yug Patel GitHub Activity Graph"
-  />
-</p>
+<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=YugPatelStarDev&theme=github-compact"
+  width="95%"
+  alt="Yug Patel GitHub Contribution Graph"
+/>
+
+</div>
+
 
 ---
 
