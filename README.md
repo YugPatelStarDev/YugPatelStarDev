@@ -136,7 +136,7 @@
 ---
 
   <!-- GitHub Account Stats with Animated Background -->
-<!--  <h2 align="center">⚡ GitHub Performance Dashboard</h2>
+<h2 align="center">⚡ GitHub Performance Dashboard</h2>
 
   <div align="center">
     <img
@@ -158,7 +158,7 @@
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YugPatelStarDev&theme=dark"
       width="32%"
     />
-  </div> -->
+  </div> 
 
 ---
 
