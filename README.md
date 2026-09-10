@@ -289,18 +289,20 @@
   <!-- Enhanced GitHub Analytics -->
   <h2 align="center">📊 Advanced GitHub Analytics</h2>
 
-  <div align="center">
-    <img
-      width="49%"
-      src="https://github-readme-stats-sigma-five.vercel.app/api?username=YugPatelStarDev&show_icons=true&hide_border=true&title_color=7c217a&icon_color=7c217a&bg_color=0d1117&text_color=ffffff&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage"
-      alt="Stats"
-    />
-    <img
-      width="49%"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=YugPatelStarDev&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=8A2387&fire=8A2387&currStreakLabel=8A2387"
-      alt="Streaks"
-    />
-  </div>
+  ## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YugPatelStarDev&show_icons=true&hide_border=true&title_color=00F7FF&icon_color=FF00FF&bg_color=0D1117&text_color=FFFFFF&rank_icon=github" width="49%" alt="GitHub Stats">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugPatelStarDev&layout=compact&hide_border=true&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8" width="49%" alt="Top Languages">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=YugPatelStarDev&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=8A2BE2" width="70%" alt="GitHub Contribution Streak">
+
+</div>
+
   
   <details open>
     <summary><b>📈 Contribution Metrics</b></summary>
