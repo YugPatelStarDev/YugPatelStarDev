@@ -1,419 +1,117 @@
-<h1 align="center">⚡ WELCOME TO YUG'S GITHUB ⚡</h1>
- 
+<h1 align="center">⚡ WELCOME TO YUG'S GITHUB ⚡</h1> <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1,2,4,5,40&height=250&section=header&text=YUG%20PATEL&fontSize=65&animation=twinkling&fontAlignY=38&desc=Full-Stack%20%7C%20MERN%20Stack%20%7C%20DSA%20Developer&descAlignY=62&font=Fira%20Code&textColor=FFFFFF&descColor=00F7FF&borderRadius=25" width="100%" alt="Yug Patel Header" />
 
-<!-- New readme File  -->
-<!--
-  ██████╗░███████╗░█████╗░██████╗░███████╗██████╗░░██████╗
-  ██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝
-  ██████╦╝█████╗░░███████║██████╔╝█████╗░░██████╔╝╚█████╗░ 
-  ██╔══██╗██╔══╝░░██╔══██║██╔══██╗██╔══╝░░██╔══██╗░╚═══██╗
-  ██████╦╝███████╗██║░░██║██████╔╝███████╗██║░░██║██████╔╝
-  ╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░╚══════╝╚═╝░░╚═╝╚═════╝░
+<br>
 
-  Profile README for: YUG PATEL (YugPatelStarDev)
-  Theme: NEON VIOLET (Purple-Blue Gradient)
--->
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=23&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=BCA+Student+%40+VidhyaDeep+University+%F0%9F%8E%93;Full-Stack+%26+MERN+Stack+Developer+%F0%9F%92%BB;DSA+%7C+Python+%7C+C%2B%2B+Enthusiast+%E2%9A%A1;Building+systems%2C+projects+%26+ideas+%F0%9F%9A%80" alt="Typing Introduction" />
+
+<br> <img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Status"/> <img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="Focus"/> <img src="https://img.shields.io/badge/MODE-HARDCORE-FF00FF?style=for-the-badge&labelColor=0D1117" alt="Mode"/> <img src="https://img.shields.io/badge/COFFEE-∞-FF4500?style=for-the-badge&labelColor=0D1117" alt="Coffee"/> </div>
+🧠 WHO AM I?
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1,2,4,5,40&height=250&section=header&text=YUG%20Patel&fontSize=65&animation=twinkling&fontAlignY=38&desc=Full‑Stack%20And%20%20MERN+Stack%20Developer&descAlignY=62&font=Fira%20Code&descFont=Roboto&textColor=FF4500&descColor=00FF7F&borderRadius=25"
-    width="100%"
-    alt="Header Banner"
-  />
+╔══════════════════════════════════════════════════════════════════╗
+║                         YUG PATEL                               ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  🎓 BCA Student @ VidhyaDeep University                         ║
+║  💻 Full-Stack & MERN Stack Developer                           ║
+║  ⚡ DSA + Python + C++ Enthusiast                               ║
+║  🚀 Building projects and learning every day                    ║
+║  🧠 Interested in systems, backend & problem solving            ║
+║  🔥 Turning ideas → code → products                             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 
-  <!-- Animated Profile Stats -->
-  <div align="center">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=gradient&customColorList=0,4,4,8,30&center=true&vCenter=true&multiline=true&width=800&height=100&lines=BCA+Student+%40+VidhyaDeep+University+%F0%9F%8E%93;Star+Dev+%40+SpaceX+%E2%9A%A1+Backend+Engineer+%F0%9F%94%8D;Starlink-17+Member+%F0%9F%92%BB+DSA+Python+Dev+%F0%9F%8F%86"
-      alt="Typing SVG"
-    />
-  </div>
 
-  <!-- ULTIMATE ANIMATED STATS DASHBOARD: Live, Multi-Column with Enhanced APIs -->
-  <div align="center">
-    <h2
-      align="center"
-      style="
-        font-family: 'Orbitron', sans-serif;
-        color: #8a2be2;
-        margin: 20px 0;
-      "
-    >
-      ⚡Beast Mode Stats Dashboard⚡
-    </h2>
-    <table style="width: 100%; border-collapse: collapse; margin: 20px 0">
-      <tr>
-        <td
-          align="center"
-          style="
-            padding: 10px;
-            background: linear-gradient(45deg, #8a2be2, #ba55d3);
-            border-radius: 15px;
-            margin: 5px;
-            box-shadow: 0 0 10px #8a2be2;
-          "
-        >
-          <!-- Profile Views Counter -->
-          <img
-            src="https://komarev.com/ghpvc/?username=YugPatelStarDev&color=8A2BE2&style=flat-square&label=Profile%20Views"
-            alt="Profile Views"
-          />
-          <br /><strong style="color: #00ffff; font-family: 'Fira Code'" 
-            >🚀 Live Counter</strong
-          >
-        </td>
-        <td
-          align="center"
-          style="
-            padding: 10px;
-            background: linear-gradient(45deg, #ff1493, #ff69b4);
-            border-radius: 15px;
-            margin: 5px;
-            box-shadow: 0 0 10px #ff1493;
-          "
-        >
-          <!-- Followers & Stars -->
-          <img 
-  src="https://img.shields.io/github/followers/YugPatelStarDev?color=FF1493&style=flat-square&logo=person-add" 
-  alt="Followers"    
-/>
-          <img
-            src="https://img.shields.io/github/stars/YugPatelStarDev?style=flat-square&color=FF69B4&label=Stars&logo=star"
-            alt="Stars"
-          />
-          <br /><strong style="color: #ffd700; font-family: 'Fira Code'"
-            >📈 Growth Metrics</strong
-          >
-        </td>
-        <td
-          align="center"
-          style="
-            padding: 10px;
-            background: linear-gradient(45deg, #00ff7f, #32cd32);
-            border-radius: 15px;
-            margin: 5px;
-            box-shadow: 0 0 10px #00ff7f;
-          "
-        >
-          <img
-            src="https://img.shields.io/badge/Open%20to%20Work-✅%20YES-00FF7F?style=flat-square&logo=briefcase"
-            alt="Open to Work"
-          />
-          <br />
-          <a href="mailto:YugPatelStarDev@gmail.com">
-            <img
-              src="https://img.shields.io/badge/Hire%20Me-🚀%20Click%20Here-FF4500?style=flat-square&logo=rocket&logoColor=white"
-              alt="Hire Me"
-            />
-          </a>
-          <br /><strong style="color: #000; font-family: 'Fira Code'"
-            >💼 Professional Status</strong
-          >
-        </td>
-        <td
-          align="center"
-          style="
-            padding: 10px;
-            background: linear-gradient(45deg, #8a2be2, #4b0082);
-            border-radius: 15px;
-            margin: 5px;
-            box-shadow: 0 0 10px #8a2be2;
-          "
-        >
-          <!-- Contribution Streak -->
-          <img
-            src="https://github-readme-streak-stats.herokuapp.com/?user=YugPatelStarDev&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00FFFF&fire=FF4500&currStreakLabel=8A2BE2&sideLabels=00FF7F&dates=8A2BE2"
-            alt="Streak Stats"
-          />
-          <br /><strong style="color: #ba55d3; font-family: 'Fira Code'"
-            >🔥 Contribution Streak</strong
-          >
-        </td>
-      </tr>
-    </table>
-  </div>
+"Code is my weapon. Systems over shortcuts." ⚡
 
----
+</div>
+⚡ LIVE PROFILE METRICS
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=YugPatelStarDev&label=PROFILE%20VIEWS&color=00F7FF&style=for-the-badge" alt="Profile Views"/> <img src="https://img.shields.io/github/followers/YugPatelStarDev?label=FOLLOWERS&style=for-the-badge&color=8A2BE2&labelColor=0D1117" alt="Followers"/> <img src="https://img.shields.io/github/stars/YugPatelStarDev?label=TOTAL%20STARS&style=for-the-badge&color=FF00FF&labelColor=0D1117" alt="Stars"/> </div> <br> <div align="center">
 
-  <!-- GitHub Account Stats with Animated Background -->
-<!--  <h2 align="center">⚡ GitHub Performance Dashboard</h2>
+<img src="https://streak-stats.demolab.com?user=YugPatelStarDev&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=8A2BE2" width="70%" alt="GitHub Contribution Streak" />
 
-  <div align="center">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YugPatelStarDev&theme=github_dark"
-      alt="Profile Details"
-    />
-  </div>
-
-  <div align="center">
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YugPatelStarDev&theme=dark"
-      width="32%"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YugPatelStarDev&theme=dark"
-      width="32%"
-    />
-    <img
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YugPatelStarDev&theme=dark"
-      width="32%"
-    />
-  </div> -->
-
----
-
-  <!-- Animated Technology Stack -->
-  <h2 align="center">🛠️ Technology Arsenal</h2>
-
-  <div align="center">
-    <table>
-      <tr>
-        <td align="center" width="100">
-          <img
-            src="https://techstack-generator.vercel.app/js-icon.svg"
-            alt="JavaScript"
-            width="80"
-            height="80"
-          />
-          <br /><b>JavaScript</b> <br /><img
-            src="https://img.shields.io/badge/ES6+-6a11cb?style=flat-square"
-          />
-        </td>
-        <td align="center" width="100">
-          <img
-            src="https://techstack-generator.vercel.app/cpp-icon.svg"
-            alt="C++"
-            width="80"
-            height="80"
-          />
-          <br /><b>C++</b> <br /><img
-            src="https://img.shields.io/badge/DSA-2575fc?style=flat-square"
-          />
-        </td>
-        <td align="center" width="100">
-          <img
-            src="https://techstack-generator.vercel.app/python-icon.svg"
-            alt="Python"
-            width="80"
-            height="80"
-          />
-          <br /><b>Python</b> <br /><img
-            src="https://img.shields.io/badge/3.x-6a11cb?style=flat-square"
-          />
-        </td>
-        <td align="center" width="100">
-          <img
-            src="https://techstack-generator.vercel.app/mysql-icon.svg"
-            alt="MySQL"
-            width="80"
-            height="80"
-          />
-          <br /><b>MySQL</b> <br /><img
-            src="https://img.shields.io/badge/Database-2575fc?style=flat-square"
-          />
-        </td>
-        <td align="center" width="100">
-          <img
-            src="https://techstack-generator.vercel.app/react-icon.svg"
-            alt="React"
-            width="80"
-            height="80"
-          />
-          <br /><b>React</b> <br /><img
-            src="https://img.shields.io/badge/Learning-6a11cb?style=flat-square"
-          />
-        </td>
-      </tr>
-      <tr>
-        <td align="center" width="100">
-          <img
-            src="https://techstack-generator.vercel.app/docker-icon.svg"
-            alt="Docker"
-            width="80"
-            height="80"
-          />
-          <br /><b>Docker</b> <br /><img
-            src="https://img.shields.io/badge/Future-2575fc?style=flat-square"
-          />
-        </td>
-        <td align="center" width="100">
-          <img
-            src="https://techstack-generator.vercel.app/aws-icon.svg"
-            alt="AWS"
-            width="80"
-            height="80"
-          />
-          <br /><b>AWS</b> <br /><img
-            src="https://img.shields.io/badge/Future-6a11cb?style=flat-square"
-          />
-        </td>
-        <td align="center" width="100">
-          <img
-            src="https://techstack-generator.vercel.app/github-icon.svg"
-            alt="GitHub"
-            width="80"
-            height="80"
-          />
-          <br /><b>GitHub</b> <br /><img
-            src="https://img.shields.io/badge/Expert-FFD700?style=flat-square"
-          />
-        </td>
-        <td align="center" width="100">
-          <img
-            src="https://techstack-generator.vercel.app/restapi-icon.svg"
-            alt="REST API"
-            width="80"
-            height="80"
-          />
-          <br /><b>REST API</b> <br /><img
-            src="https://img.shields.io/badge/Learning-2575fc?style=flat-square"
-          />
-        </td>
-        <td align="center" width="100">
-          <img
-            src="https://techstack-generator.vercel.app/nginx-icon.svg"
-            alt="Nginx"
-            width="80"
-            height="80"
-          />
-          <br /><b>Nginx</b> <br /><img
-            src="https://img.shields.io/badge/Future-6a11cb?style=flat-square"
-          />
-        </td>
-      </tr>
-    </table>
-  </div>
-
----
-
-  <!-- Enhanced GitHub Analytics -->
-  <h2 align="center">📊 Advanced GitHub Analytics</h2>
-
-  ## 📊 GITHUB ANALYTICS
-
+</div>
+🛠️ TECHNOLOGY ARSENAL
+<div align="center">
+💻 Languages & Core
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,java,php&theme=dark&perline=7" alt="Programming Languages"/>
+⚛️ Frontend & Full Stack
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,bootstrap,redux&theme=dark&perline=8" alt="Frontend Technologies"/>
+🧩 Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,mongodb,mysql,redis,supabase,firebase,prisma,graphql&theme=dark&perline=8" alt="Backend Technologies"/>
+☁️ Tools & Infrastructure
+<img src="https://skillicons.dev/icons?i=git,github,docker,bash,linux,aws,azure,vercel,netlify,npm,yarn,postman,vscode,figma&theme=dark&perline=8" alt="Developer Tools"/> </div>
+📊 GITHUB ANALYTICS
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YugPatelStarDev&show_icons=true&hide_border=true&title_color=00F7FF&icon_color=FF00FF&bg_color=0D1117&text_color=FFFFFF&rank_icon=github" width="49%" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=YugPatelStarDev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=FF00FF&text_color=FFFFFF&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="Yug Patel GitHub Statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugPatelStarDev&layout=compact&hide_border=true&title_color=00F7FF&text_color=FFFFFF&bg_color=0D1117&langs_count=8" width="49%" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugPatelStarDev&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" width="49%" alt="Top Programming Languages" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=YugPatelStarDev&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=8A2BE2" width="70%" alt="GitHub Contribution Streak">
+<img src="https://streak-stats.demolab.com?user=YugPatelStarDev&theme=dark&hide_border=true&background=0D1117&ring=00F7FF&fire=FF00FF&currStreakLabel=00F7FF&sideLabels=FFFFFF&dates=8A2BE2" width="70%" alt="Contribution Streak" />
 
 </div>
-
-  
-  <details open>
-    <summary><b>📈 Contribution Metrics</b></summary>
-    <br />
-    <div align="center">
-      <img
-        src="https://github-readme-activity-graph.vercel.app/graph?username=YugPatelStarDev&bg_color=0d1117&color=8A2387&line=2575fc&point=8A2387&area=true&hide_border=true&custom_title=Weekly+Code+Intensity&theme=dark&border_radius=20&line_width=3&area_color=2575fc"
-      />
-    </div>
-  </details>
-
----
-
-<!--  <h3>🪐 Tech Stack I Orbit Around</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,mysql,python,c,cpp,git,github,docker,linux,vscode,figma,tailwind,bootstrap,vercel,netlify&theme=dark&perline=8" alt="Tech Stack"/>
-  </p>
-
-  <br>
-
-  <blockquote>
-    "The universe is not only stranger than we imagine, it is stranger than we can imagine."<br>
-    — J.B.S. Haldane (but make it code)
-  </blockquote>
-
-  <br><br>
-
-  <a href="https://github.com/YugPatelStarDev?tab=repositories">
-    <img src="https://img.shields.io/badge/Check%20out%20my%20repos-0d1117?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Repositories"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/YugPatelStarDev">
-    <img src="https://img.shields.io/badge/Follow%20on%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-
-  <br><br> -->
-
-  <sub>🪐 Last orbit sync: February 2026 | Made with cosmic vibes in Hawthorne, CA 90250, United States</sub>
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header&%gradient=0:00F7FF,100:FF00FF"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Yug+Patel+%7C+Full+Stack+Developer;MERN+Stack+%26+DSA+Enthusiast;Code+is+my+weapon;Systems+over+shortcuts" />
-</p>
-
----
-
-## 📊 LIVE METRICS
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YugPatelStarDev&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/YugPatelStarDev?label=FOLLOWERS&style=flat-square&color=6A00FF" />
-  <img src="https://img.shields.io/github/stars/YugPatelStarDev?label=TOTAL+STARS&style=flat-square&color=FF00FF" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YugPatelStarDev&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=00FFFF&fire=FF4500&currStreakLabel=8A2BE2&sideLabels=00FF7F&dates=8A2BE2" alt="Contribution Streak"/>
-</p>
-
----
-
-
-## 📈 Contribution Graph
-
-<h2 align="center">📈 CONTRIBUTION GRAPH</h2>
-
+📈 CONTRIBUTION ACTIVITY
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YugPatelStarDev&bg_color=0d1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=Yug%27s%20Code%20Intensity"
-  width="95%"
-  alt="Yug Patel's GitHub Contribution Graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YugPatelStarDev&bg_color=0D1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=Yug%27s%20Code%20Intensity" width="95%" alt="Yug Patel GitHub Contribution Activity" />
 
 </div>
+🚀 CURRENT MISSION
+<div align="center">
+┌──────────────────────────────────────────────────────────┐
+│                    🚀 CURRENT MISSION                    │
+├──────────────────────────────────────────────────────────┤
+│                                                          │
+│  [████████████████████████████████████░░]  BUILDING     │
+│                                                          │
+│  ⚡ Master Full-Stack Development                        │
+│  🧠 Level Up DSA & Problem Solving                       │
+│  💻 Build Real-World Projects                            │
+│  🔧 Improve Backend & System Design                       │
+│  ☁️ Explore Cloud & DevOps                               │
+│  🚀 Ship. Learn. Repeat.                                 │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
 
+</div>
+🏆 ACHIEVEMENT SYSTEM
+<div align="center"> <img src="https://img.shields.io/badge/⚡_FULL--STACK-BUILDING-00F7FF?style=for-the-badge&labelColor=0D1117" alt="Full Stack"/> <img src="https://img.shields.io/badge/🧠_DSA-TRAINING-8A2BE2?style=for-the-badge&labelColor=0D1117" alt="DSA"/> <img src="https://img.shields.io/badge/🐍_PYTHON-ACTIVE-3776AB?style=for-the-badge&labelColor=0D1117" alt="Python"/> <img src="https://img.shields.io/badge/⚛️_REACT-ACTIVE-61DAFB?style=for-the-badge&labelColor=0D1117" alt="React"/> <img src="https://img.shields.io/badge/🚀_PROJECTS-SHIPPING-FF00FF?style=for-the-badge&labelColor=0D1117" alt="Projects"/> </div>
+🌌 DEVELOPER PHILOSOPHY
+<div align="center">
+        THINK
+          ↓
+        BUILD
+          ↓
+        BREAK
+          ↓
+        DEBUG
+          ↓
+       REFACTOR
+          ↓
+         SHIP
+          ↓
+        REPEAT
 
----
+⚡ No shortcuts. No excuses. Just better systems.
+</div>
+📫 CONNECT WITH ME
+<div align="center"> <a href="https://github.com/YugPatelStarDev"> <img src="https://img.shields.io/badge/GitHub-YugPatelStarDev-FFFFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub"/> </a> <a href="https://x.com/YugPatelStarDev"> <img src="https://img.shields.io/badge/X-Follow%20Me-FFFFFF?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X"/> </a> <a href="mailto:YugPatelStarDev@gmail.com"> <img src="https://img.shields.io/badge/Email-Let's%20Build-FF4500?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" alt="Email"/> </a> </div>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4&section=footer&customColorList=0,2,4,5,30" width="100%" alt="Footer" />
 
+<br>
 
-## 🎓 Education & Skills
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=Yug+Patel+%7C+Full+Stack+Developer;MERN+Stack+%26+DSA+Enthusiast;Build+%E2%80%A2+Break+%E2%80%A2+Debug+%E2%80%A2+Ship;Systems+over+shortcuts+%E2%9A%A1" alt="Footer Typing Animation" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/BCA-VidhyaDeep%20University-6a11cb?style=for-the-badge&logo=graduationcap&logoColor=white" alt="Education"/>
-</p>
+<br><br>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,nodejs,express,php,laravel,python,java,c,cpp,mongodb,mysql,redis,supabase,firebase,prisma,graphql,redux,git,github,docker,bash,linux,aws,azure,vercel,netlify,npm,yarn,postman,vscode,figma,ps&perline=10&theme=dark" alt="Skills"/>
-</p>
+⚡ BUILD SOMETHING THAT MATTERS. ⚡
 
----
+<sub>🪐 Profile powered by code, curiosity & cosmic vibes.</sub>
 
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://github.com/YugPatelStarDev">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://x.com/YugPatelStarDev">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-  <a href="mailto:YugPatelStarDev@gmail.com">
-
-
-
-![GitHub GIF](githubgif.gif)
-
-  
-
- 
+</div>
