@@ -100,7 +100,7 @@
             alt="Open to Work"
           />
           <br />
-          <a href="mailto:YugPatelStarDev@gmail.com">
+          <a href="mailto:workswithyug@gmail.com">
             <img
               src="https://img.shields.io/badge/Hire%20Me-🚀%20Click%20Here-FF4500?style=flat-square&logo=rocket&logoColor=white"
               alt="Hire Me"
