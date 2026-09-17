@@ -284,9 +284,9 @@
     </table>
   </div>
 
----
+<!-- ---
 
-  <!-- Enhanced GitHub Analytics -->
+   Enhanced GitHub Analytics -->
   <!-- <h2 align="center">📊 Advanced GitHub Analytics</h2>
 
   <div align="center">
@@ -310,9 +310,9 @@
         src="https://github-readme-activity-graph.vercel.app/graph?username=YugPatelStarDev&bg_color=0d1117&color=8A2387&line=2575fc&point=8A2387&area=true&hide_border=true&custom_title=Weekly+Code+Intensity&theme=dark&border_radius=20&line_width=3&area_color=2575fc"
       />
     </div>
-  </details> -->
+  </details> 
 
----
+--- -->
 
 <!--  <h3>🪐 Tech Stack I Orbit Around</h3>
   <p>
