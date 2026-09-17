@@ -290,11 +290,11 @@
   <h2 align="center">📊 Advanced GitHub Analytics</h2>
 
   <div align="center">
-    <img
+    <!-- <img
       width="49%"
       src="https://github-readme-stats-sigma-five.vercel.app/api?username=YugPatelStarDev&show_icons=true&hide_border=true&title_color=7c217a&icon_color=7c217a&bg_color=0d1117&text_color=ffffff&hide_rank=false&show=reviews,prs_merged,prs_merged_percentage"
       alt="Stats"
-    />
+    /> -->
     <img
       width="49%"
       src="https://github-readme-streak-stats.herokuapp.com/?user=YugPatelStarDev&theme=dark&hide_border=true&stroke=0000&background=0d1117&ring=8A2387&fire=8A2387&currStreakLabel=8A2387"
@@ -302,7 +302,7 @@
     />
   </div>
   
-  <details open>
+<!--  <details open>
     <summary><b>📈 Contribution Metrics</b></summary>
     <br />
     <div align="center">
@@ -310,7 +310,7 @@
         src="https://github-readme-activity-graph.vercel.app/graph?username=YugPatelStarDev&bg_color=0d1117&color=8A2387&line=2575fc&point=8A2387&area=true&hide_border=true&custom_title=Weekly+Code+Intensity&theme=dark&border_radius=20&line_width=3&area_color=2575fc"
       />
     </div>
-  </details>
+  </details> -->
 
 ---
 
