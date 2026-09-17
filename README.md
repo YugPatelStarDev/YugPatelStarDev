@@ -366,16 +366,16 @@
 ---
 
 
-## 📈 Contribution Graph
+<!--  ## 📈 Contribution Graph
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YugPatelStarDev&bg_color=0d1117&color=00F7FF&line=FF00FF&point=FFFFFF&area=true&hide_border=true&custom_title=Yug's%20Code%20Intensity" alt="Contribution Graph"/>
-</p> -->
+</p> 
 
 [![GitHub Activity Graph](https://vercel.app)](https://github.com/YugPatelStarDev/github-readme-activity-graph)
 
 
----
+--- -->
 
 
 
