@@ -281,6 +281,117 @@
           />
         </td>
       </tr>
+     <tr>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/nextjs-icon.svg" alt="Next.js" width="80" height="80" />
+    <br /><b>Next.js</b><br />
+    <img src="https://img.shields.io/badge/Learning-2575fc?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="80" height="80" />
+    <br /><b>Node.js</b><br />
+    <img src="https://img.shields.io/badge/Backend-6a11cb?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="80" height="80" />
+    <br /><b>MySQL</b><br />
+    <img src="https://img.shields.io/badge/Database-2575fc?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/mongodb-icon.svg" alt="MongoDB" width="80" height="80" />
+    <br /><b>MongoDB</b><br />
+    <img src="https://img.shields.io/badge/Database-6a11cb?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
+    <br /><b>Docker</b><br />
+    <img src="https://img.shields.io/badge/Future-2575fc?style=flat-square" />
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="80" height="80" />
+    <br /><b>AWS</b><br />
+    <img src="https://img.shields.io/badge/Future-6a11cb?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
+    <br /><b>GitHub</b><br />
+    <img src="https://img.shields.io/badge/Expert-FFD700?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="80" height="80" />
+    <br /><b>REST API</b><br />
+    <img src="https://img.shields.io/badge/Learning-2575fc?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="80" height="80" />
+    <br /><b>Nginx</b><br />
+    <img src="https://img.shields.io/badge/Future-6a11cb?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=git" width="80" height="80" alt="Git" />
+    <br /><b>Git</b><br />
+    <img src="https://img.shields.io/badge/Version_Control-2575fc?style=flat-square" />
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=html" width="80" height="80" alt="HTML5" />
+    <br /><b>HTML5</b><br />
+    <img src="https://img.shields.io/badge/Frontend-6a11cb?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=css" width="80" height="80" alt="CSS3" />
+    <br /><b>CSS3</b><br />
+    <img src="https://img.shields.io/badge/Styling-2575fc?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="80" height="80" alt="Tailwind CSS" />
+    <br /><b>Tailwind</b><br />
+    <img src="https://img.shields.io/badge/UI-6a11cb?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="80" height="80" alt="Bootstrap" />
+    <br /><b>Bootstrap</b><br />
+    <img src="https://img.shields.io/badge/UI-2575fc?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=express" width="80" height="80" alt="Express.js" />
+    <br /><b>Express.js</b><br />
+    <img src="https://img.shields.io/badge/Backend-6a11cb?style=flat-square" />
+  </td>
+</tr>
+
+<tr>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=postgres" width="80" height="80" alt="PostgreSQL" />
+    <br /><b>PostgreSQL</b><br />
+    <img src="https://img.shields.io/badge/Database-2575fc?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=redis" width="80" height="80" alt="Redis" />
+    <br /><b>Redis</b><br />
+    <img src="https://img.shields.io/badge/Cache-6a11cb?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=linux" width="80" height="80" alt="Linux" />
+    <br /><b>Linux</b><br />
+    <img src="https://img.shields.io/badge/OS-2575fc?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=postman" width="80" height="80" alt="Postman" />
+    <br /><b>Postman</b><br />
+    <img src="https://img.shields.io/badge/API_Testing-6a11cb?style=flat-square" />
+  </td>
+  <td align="center" width="100">
+    <img src="https://skillicons.dev/icons?i=vscode" width="80" height="80" alt="VS Code" />
+    <br /><b>VS Code</b><br />
+    <img src="https://img.shields.io/badge/Editor-2575fc?style=flat-square" />
+  </td>
+</tr>
     </table>
   </div>
 
