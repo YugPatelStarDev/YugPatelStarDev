@@ -39,7 +39,7 @@
         margin: 20px 0;
       "
     >
-      ⚡Beast Mode Stats Dashboard⚡
+       ---
     </h2>
     <table style="width: 100%; border-collapse: collapse; margin: 20px 0">
       <tr>
