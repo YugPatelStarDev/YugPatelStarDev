@@ -31,17 +31,8 @@
 
   <!-- ULTIMATE ANIMATED STATS DASHBOARD: Live, Multi-Column with Enhanced APIs -->
   <div align="center">
-    <h2
-      align="center"
-      style="
-        font-family: 'Orbitron', sans-serif;
-        color: #8a2be2;
-        margin: 20px 0;
-      "
-    >
-       ---
-    </h2>
-    <table style="width: 100%; border-collapse: collapse; margin: 20px 0">
+  
+   <table style="width: 100%; border-collapse: collapse; margin: 20px 0">
       <tr>
         <td
           align="center"
