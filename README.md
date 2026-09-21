@@ -225,11 +225,7 @@
         </td>
       </tr>
      
-  <td align="center" width="100">
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="80" height="80" />
-    <br /><b>Docker</b><br />
-    <img src="https://img.shields.io/badge/Future-2575fc?style=flat-square" />
-  </td>
+
 </tr>
 
 <tr>
